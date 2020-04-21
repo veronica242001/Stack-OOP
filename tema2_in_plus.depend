@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1587498572 source:c:\users\veronica\documents\cursurifmi\oop\tema2_in_plus\cstiva.cpp
+	"CStiva.h"
+	"CException.h"
+	<iostream>
+	<cstring>
+
+1587498281 c:\users\veronica\documents\cursurifmi\oop\tema2_in_plus\cstiva.h
+	"CSir.h"
+
+1587498864 c:\users\veronica\documents\cursurifmi\oop\tema2_in_plus\csir.h
+	<iostream>
+
+1587498591 source:c:\users\veronica\documents\cursurifmi\oop\tema2_in_plus\main.cpp
+	<iostream>
+	<cstring>
+	"CStiva.h"
+	"CSir.h"
+	"CStivaOrd.h"
+	"CException.h"
+
+1587496483 source:c:\users\veronica\documents\cursurifmi\oop\tema2_in_plus\csir.cpp
+	"CSir.h"
+	<iostream>
+	<cstring>
+
+1587498266 source:c:\users\veronica\documents\cursurifmi\oop\tema2_in_plus\cstivaord.cpp
+	"CStivaOrd.h"
+	"CException.h"
+	<iostream>
+	<cstring>
+
+1587497625 c:\users\veronica\documents\cursurifmi\oop\tema2_in_plus\cstivaord.h
+	"CStiva.h"
+
+1587495491 source:c:\users\veronica\documents\cursurifmi\oop\tema2_in_plus\cexception.cpp
+	"CException.h"
+	<iostream>
+	<cstring>
+
+1587495491 c:\users\veronica\documents\cursurifmi\oop\tema2_in_plus\cexception.h
+	<cstring>
+
